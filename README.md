@@ -5,7 +5,7 @@ download easyColorLibCPP.cpp to your project directory
 then include it to your .cpp file using #include "easyColorLibCPP.cpp"
 
 in order to print red bold text use:
- pRedB("Text);
+ pRedB("Text");
 
 you also can print int/char/short/long variables
 
